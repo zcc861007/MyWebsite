@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:czhouphd@google.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'mailto:czhouphd@google.com'
+  #   label: E-mail Me
   - icon: brands/x
     url: https://x.com/zcc861007
   - icon: brands/instagram
@@ -47,42 +47,32 @@ profiles:
     url: https://orcid.org/0000-0002-2631-2622
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Reinforcement Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computational Biomechanics
+    institution: State University of New York at Binghamton
+    date_start: 2013-01
+    date_end: 2018-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Spine Biomechanics and Implant Optimal Design. Supervised by Dr. Ryan Willing (https://www.eng.uwo.ca/mechanical//faculty/willing_r/index.html).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://orb.binghamton.edu/dissertation_and_theses/99/'
+  - area: MEng Computer Science (Data Science Track)
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2022-09
+    date_end: 2026-05
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 4.0/4.0
+  - area: BSc, MEng Mechanical Engineering
+    institution: Harbin Institute of Technology
+    date_start: 2005-09
+    date_end: 2011-07
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
