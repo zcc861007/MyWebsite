@@ -89,7 +89,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-03-01
-    date_end: 2024-08
+    date_end: 2024-08-01
     summary: |
       Responsibilities include:
       - Development and cadaveric validation of computer vision algorithms focused on 3D-2D (CT-Fluoro) image co-registration for surgical navigation
