@@ -33,10 +33,10 @@ profiles:
   # - icon: at-symbol
   #   url: 'mailto:czhouphd@google.com'
   #   label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/zcc861007
-  - icon: brands/instagram
-    url: https://www.instagram.com/czhouphd/
+  # - icon: brands/x
+  #   url: https://x.com/zcc861007
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/czhouphd/
   - icon: brands/github
     url: https://github.com/zcc861007
   - icon: brands/linkedin
@@ -48,8 +48,9 @@ profiles:
 
 interests:
   - Machine Learning
-  - Deep Learning
   - Reinforcement Learning
+  - Sequence Data
+  - Quant Trading
 
 education:
   - area: PhD Computational Biomechanics
@@ -173,4 +174,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Chaochao Zhou is a Data Scientist at Musket Corp. His research interests include machine learning, reinforcement learning, and AI-driven quant trading 
